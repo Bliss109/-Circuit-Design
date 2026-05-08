@@ -73,4 +73,4 @@ A schematic showing an Arduino Nano microcontroller interfaced with a DHT22 temp
 
 ---
 
-*ICS 4111 — Embedded Systems & IoT | Apr–Jul 2026*
+
